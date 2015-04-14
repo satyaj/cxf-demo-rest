@@ -12,8 +12,8 @@ You can run this project using he following Maven goal:
 To deploy the project in OSGi. For example using Apache ServiceMix
 or Apache Karaf. You will run the following command from its shell:
 
-    osgi:install -s mvn:com.mycompany/camel-spring-dm/1.0.0-SNAPSHOT
+    osgi:install -s mvn:com.mycompany/cxf-demo-rest/1.0.0-SNAPSHOT
 
-For more help see the Apache Camel documentation
+Use the Fabric feature CXF and add the bundle to it.
 
-    http://camel.apache.org/
+
